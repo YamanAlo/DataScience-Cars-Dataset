@@ -110,12 +110,12 @@ Clone the repository
 1- Place the Data.csv file in the root directory
 2- Install required packages
 3- Run the following command in your terminal:
-'''bash
+```bash
     Rscript -e "install.packages(c('ggplot2', 'dplyr', 'pastecs', 'corrplot', 'GGally', 'ggpubr', 'scales', 'moments', 'ggstatsplot', 'superml', 'readxl', 'zoo', 'imputeTS', 'reshape2', 'viridis', 'caTools'))"
 
   ```
 
-'''bash
+```bash
     Rscript code.R
 ```
 
